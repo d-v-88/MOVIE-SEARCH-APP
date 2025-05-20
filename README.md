@@ -67,4 +67,18 @@ The Movie Search App has multiple practical applications that make it valuable f
 
 # OUTPUT
 
+![Image](https://github.com/user-attachments/assets/2109dbda-4b72-4761-bc6b-ed9c265f9b91)
+
 ![Image](https://github.com/user-attachments/assets/b2591052-2f36-4111-832d-06c6247ab003)
+
+![Image](https://github.com/user-attachments/assets/96634931-2390-428c-80c0-69f85c0bb306)
+
+![Image](https://github.com/user-attachments/assets/2cbe48d4-a959-47a4-ac5a-b1771433f1ab)
+
+![Image](https://github.com/user-attachments/assets/220199dc-1fd7-4db4-ba77-97f766b81c2e)
+
+![Image](https://github.com/user-attachments/assets/cd4a8439-0f0e-4cde-957b-e2e9b273d4e3)
+
+![Image](https://github.com/user-attachments/assets/96b697d5-0401-4afe-b8c0-d5b8f2a2d6b3)
+
+![Image](https://github.com/user-attachments/assets/d39168d8-04d7-4387-97ed-c596148e26c8)
