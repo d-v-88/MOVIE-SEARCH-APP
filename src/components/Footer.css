@@ -1,0 +1,30 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+    flex-wrap: wrap; /* allows content to wrap on small screens */
+    padding: 10px 20px;
+    text-align: center;
+}
+
+/* Responsive font and spacing for small screens */
+.f {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: white;
+    font-size: 1rem;
+}
+
+/* Optional Media Query for extra control */
+@media (max-width: 480px) {
+    .footer {
+        flex-direction: column;
+        margin-bottom: 20px;
+        padding: 15px 10px;
+    }
+
+    .f {
+        font-size: 0.9rem;
+    }
+}
