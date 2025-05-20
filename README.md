@@ -67,3 +67,4 @@ The Movie Search App has multiple practical applications that make it valuable f
 
 # OUTPUT
 
+![Image](https://github.com/user-attachments/assets/b2591052-2f36-4111-832d-06c6247ab003)
