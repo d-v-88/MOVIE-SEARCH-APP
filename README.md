@@ -47,7 +47,7 @@ The project was developed and maintained using:
 
 *Git & GitHub*: For version control and project collaboration.
 
-## Applicabilities
+## APPLICABILITIES
 
 The Movie Search App has multiple practical applications that make it valuable for different users and purposes:
 
