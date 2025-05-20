@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
-# DESCRIPTION
+## DESCRIPTION
 The Movie Search App is a dynamic, responsive, and user-friendly web application built to provide users with a seamless experience for discovering detailed information about their favorite movies. It leverages the power of the OMDB (Open Movie Database) API, allowing users to search for any movie and view real-time data fetched directly from a trusted external source. This includes essential information such as the movie's release year, poster image, and whether the movie has been saved by the user or not.
 
 At its core, the application is designed to be minimal yet functional. Users simply need to enter a movie title into the search bar, and upon submission, the app instantly performs an API call to OMDB. The results are then displayed in a clean, easy-to-navigate format that includes a list of closely matched movie titles. This not only improves user interaction but also allows users to discover new titles they may not have been aware of. The application handles all types of input, whether the movie name is entered in full or partially, and provides accurate matches accordingly.
@@ -23,9 +23,9 @@ Security and best practices were also considered in the development process. The
 
 A unique feature added to the app is the ability to save movies. Users can mark certain movies as “saved” for future reference. This feature adds a personalized touch, giving users the ability to build their own mini watchlist directly within the application. Although the current version uses local storage for this functionality, it lays the groundwork for more advanced features like login and persistent user data in future updates.
 
-# TECH STACK
+## TECH STACK
 
-# Frontend
+## Frontend
 *React*: Component-based architecture for building dynamic UIs.
 
 *HTML5*: Semantic structure for the web application.
@@ -34,13 +34,13 @@ A unique feature added to the app is the ability to save movies. Users can mark 
 
 *Javascript(ES6+)*: Functional logic and API handling.
 
-# Styling & Animations
+## Styling & Animations
 *Tailwind CSS*: Utility-first CSS framework for fast UI design.
 
-# API 
+## API 
 *OMDB API*: Provides live movie data based on movie name input provided in the search bar.
 
-# EDITING PLATFORM
+## EDITING PLATFORM
 The project was developed and maintained using:
 
 *Visual Studio Code (VS Code)*: A powerful and lightweight code editor with rich extensions for react and web development.
@@ -65,7 +65,7 @@ The Movie Search App has multiple practical applications that make it valuable f
 
 **Casual Use for Movie Lovers:** Families and friends can use the app to explore and select movies together based on ratings and genres, helping them decide on what to watch next.
 
-# OUTPUT
+## OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/2109dbda-4b72-4761-bc6b-ed9c265f9b91)
 
